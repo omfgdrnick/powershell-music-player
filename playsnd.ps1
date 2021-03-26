@@ -1,6 +1,6 @@
 $PlayWav=New-Object System.Media.SoundPlayer
 
-$PlayWav.SoundLocation="\\hal\Icons\sorry.wav"
+$PlayWav.SoundLocation="C:\sorry.wav"
 
 $PlayWav.playsync()
 
